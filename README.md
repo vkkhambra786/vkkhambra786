@@ -1,8 +1,8 @@
- <h1>Hey you, I'm Santosh</h1>
+ <h1>Hey you, I'm Vikas Khambra</h1>
 
 ##### I'm a passionate Full Stack Developer Specialized in MERN Stack from India.
 
-![](https://komarev.com/ghpvc/?username=your-github-Santosh-Konappanavar&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=your-githubvkkhambra786&style=flat-square&label=Profile+Views)
 <img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
 
 ### :heavy_minus_sign: Interested on my skills?
@@ -26,22 +26,22 @@
 ### :heavy_minus_sign: Interested on my top projects?
 
 <p>
-<a href="https://github.com/Santosh-Konappanavar/smallcases_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=smallcases.com&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="smallcases.com"/></a>
-<a href="https://github.com/Santosh-Konappanavar/Freshly.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly.com&color=00d09c&logoColor=FFFFFF&label=" alt="Freshly.com" /></a>
-<a href="https://github.com/Santosh-Konappanavar/Theskincare" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Theskincare&color=000000&logo=thskincare&logoColor=FFFFFF&label=" alt="Theskincare"/></a>
+<a href="https://github.com/vkkhambra786/smallcases_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=smallcases.com&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="smallcases.com"/></a>
+<a href="https://github.com/vkkhambra786/Freshly.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly.com&color=00d09c&logoColor=FFFFFF&label=" alt="Freshly.com" /></a>
+<a href="https://github.com/vkkhambra786/Theskincare" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Theskincare&color=000000&logo=thskincare&logoColor=FFFFFF&label=" alt="Theskincare"/></a>
 </p>
 
 ### :heavy_minus_sign: Where to find me?
-<p> <a href="https://www.linkedin.com/in/santosh-konappanavar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ssk21m"
+<p> <a href="https://www.linkedin.com/in/vkkhambra786/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ssk21m"
 SaveCancel
 " target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ### :heavy_minus_sign: My Github stats
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-Konappanavar&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh-Konappanavar&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Konappanavar&theme=dracula">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkkhambra786 &layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkkhambra786&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkkhambra786&theme=dracula">
 </p>
 
 

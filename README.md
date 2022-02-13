@@ -26,9 +26,9 @@
 ### :heavy_minus_sign: Interested on my top projects?
 
 <p>
-<a href="https://github.com/vkkhambra786/smallcases_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=smallcases.com&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="smallcases.com"/></a>
-<a href="https://github.com/vkkhambra786/Freshly.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly.com&color=00d09c&logoColor=FFFFFF&label=" alt="Freshly.com" /></a>
-<a href="https://github.com/vkkhambra786/Theskincare" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Theskincare&color=000000&logo=thskincare&logoColor=FFFFFF&label=" alt="Theskincare"/></a>
+<a href="https://github.com/vkkhambra786/Tanshiq_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tanshiq.com&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="smallcases.com"/></a>
+<a href="https://github.com/vkkhambra786/Fagbag.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=fabbag.com&color=00d09c&logoColor=FFFFFF&label=" alt="Freshly.com" /></a>
+<a href="https://github.com/vkkhambra786/Bemz" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message= Bemz&color=000000&logo=thskincare&logoColor=FFFFFF&label=" alt="Theskincare"/></a>
 </p>
 
 ### :heavy_minus_sign: Where to find me?

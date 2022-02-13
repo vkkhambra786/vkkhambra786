@@ -49,8 +49,8 @@ SaveCancel
 <!--<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />-->
 
 <!--### :heavy_minus_sign: Interested on my Story?
-When I graduated as a electronics engineer, I never thought that I would be on the path to become a web developer. I started my career as a network engineer, then worked as former  in my land for the next 2 years.
-However, the agriculture work did not provide me the satisfaction that I was seeking for my career growth. This is when I came across the career option of web development and was immediately intrigued.
+When I graduated as a Biotechnology engineer, I never thought that I would be on the path to become a web developer. When i did my graduation I started my preparation for govt. job but i not success at there.
+However, that  prepartion  did not provide me the satisfaction and job  that I was seeking for  Private job where my career growth is increase  fast. This is when I came across the career option of web development and was immediately intrigued.
 
 While I was exploring career paths on web development, I learned about Masai school and joined a 30-weeks full-time course on Full-Stack Web Development. Ever since, I became determined to learn new skills and frameworks. I was able to apply my learnings while developing projects and that became an enjoyable process.
 
@@ -63,7 +63,7 @@ My previous work experience, combined with everything that I have learnt in the 
 My hobbies include travelling, reading books, exploring movies and listening to music.
 
 Looking forward to applying the acquired skills on solving intricate problems and making life much easier.
-Feel free to reach me at: ssk21m@gmail.com.
+Feel free to reach me at:  vkkhambra786@gmail.com.
 You can view my work at:-->
 
 
@@ -74,4 +74,4 @@ You can view my work at:-->
 
 
 <!--
-*Santosh-Konappanavar/Santosh-Konappanavar* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*vkkhambra786/vkkhambra786* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

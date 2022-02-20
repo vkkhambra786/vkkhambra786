@@ -1,6 +1,6 @@
  <h1>Hey you, I'm Vikas Khambra</h1>
 
-##### I'm a passionate programmerSpecialized in MERN Stack developer.Something that I love about programming is the opportunity to work with different people and departments. As a programmer, I like to challenge myself and learn new tech skills. It is great to be able to come together with other professionals who are striving towards the same goal.If you would like to know more, reach out at vkkhambra786@gmail.com
+##### I'm a passionate programmer Specialized in MERN Stack developer.Something that I love about programming is the opportunity to work with different people and departments. As a programmer, I like to challenge myself and learn new tech skills. It is great to be able to come together with other professionals who are striving towards the same goal.If you would like to know more, reach out at vkkhambra786@gmail.com
  
  
 

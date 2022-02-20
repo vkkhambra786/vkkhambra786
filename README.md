@@ -39,9 +39,9 @@ SaveCancel
 " target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-### :heavy_minus_sign: My Github stats
+### :heavy_minus_sign: My Github status
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkkhambra786 &layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vkkhambra786&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkkhambra786&theme=dracula">
 </p>
